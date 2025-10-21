@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "pluralization": "Pluralização",
+    "ordinals": "Ordinais",
+    "formatting": "Formatação de Números e Datas",
+    "lists": "Listas de Texto",
+    "gender": "Gênero e Gramática"
+  },
+  "pluralization": {
+    "title": "Exemplos de Pluralização",
+    "items_one": "{{count}} item",
+    "items_other": "{{count}} itens",
+    "books_one": "{{count}} livro",
+    "books_other": "{{count}} livros"
+  },
+  "ordinals": {
+    "title": "Números Ordinais",
+    "position": "Posição: {{ordinal}}"
+  },
+  "formatting": {
+    "title": "Formatação de Números e Datas",
+    "number": "Número: {{number}}",
+    "currency": "Preço: {{price}}",
+    "date": "Data: {{date}}"
+  },
+  "lists": {
+    "title": "Listas de Texto",
+    "fruits": "Frutas: {{list}}"
+  },
+  "gender": {
+    "title": "Gênero e Concordância Gramatical",
+    "user_male": "Ele é um usuário",
+    "user_female": "Ela é uma usuária",
+    "welcome_male": "Bem-vindo, Sr. {{name}}",
+    "welcome_female": "Bem-vinda, Sra. {{name}}"
+  }
+}

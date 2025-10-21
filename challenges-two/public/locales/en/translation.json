@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "pluralization": "Pluralization",
+    "ordinals": "Ordinals",
+    "formatting": "Number & Date Formatting",
+    "lists": "Text Lists",
+    "gender": "Gender & Grammar",
+    "context": "Context Challenge"
+  },
+  "pluralization": {
+    "title": "Pluralization Examples",
+    "items_one": "{{count}} item",
+    "items_other": "{{count}} items",
+    "books_one": "{{count}} book",
+    "books_other": "{{count}} books"
+  },
+  "ordinals": {
+    "title": "Ordinal Numbers",
+    "position": "Position: {{ordinal}}"
+  },
+  "formatting": {
+    "title": "Number & Date Formatting",
+    "number": "Number: {{number}}",
+    "currency": "Price: {{price}}",
+    "date": "Date: {{date}}"
+  },
+  "lists": {
+    "title": "Text Lists",
+    "fruits": "Fruits: {{list}}"
+  },
+  "gender": {
+    "title": "Gender & Grammatical Agreement",
+    "user_male": "He is a user",
+    "user_female": "She is a user",
+    "welcome_male": "Welcome, Mr. {{name}}",
+    "welcome_female": "Welcome, Ms. {{name}}"
+  }
+}

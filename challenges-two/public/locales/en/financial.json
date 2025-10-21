@@ -1,0 +1,11 @@
+{
+  "bank": {
+    "institution": "Bank Institution",
+    "visit": "Visit the bank to deposit money",
+    "account": "Bank Account"
+  },
+  "save": {
+    "money": "Save Money",
+    "account": "Savings Account"
+  }
+}

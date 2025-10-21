@@ -1,0 +1,48 @@
+{
+  "title": "i18next Übersetzungsherausforderungen Demo",
+  "languageSelector": "Sprache:",
+  "challenges": {
+    "pluralization": "Pluralisierungsherausforderung",
+    "ordinals": "Ordinalzahlen-Herausforderung",
+    "context": "Kontext-Herausforderung",
+    "gender": "Geschlechter-Herausforderung", 
+    "formatting": "Formatierungs-Herausforderung",
+    "awsIssues": "AWS Translate Probleme"
+  },
+  "cart": {
+    "title": "Einkaufswagen",
+    "item_zero": "Keine Artikel",
+    "item_one": "{{count}} Artikel",
+    "item_other": "{{count}} Artikel",
+    "total": "Gesamt: {{amount, currency}}"
+  },
+  "ranking": {
+    "title": "Turnier-Rangliste",
+    "position_1": "{{name}} wurde 1.",
+    "position_2": "{{name}} wurde 2.",
+    "position_3": "{{name}} wurde 3.",
+    "position_other": "{{name}} wurde {{count}}."
+  },
+  "context": {
+    "bank_financial": "Besuchen Sie die Bank, um Geld einzuzahlen",
+    "bank_river": "Wir saßen am Flussufer",
+    "book_verb": "Reservieren Sie einen Tisch zum Abendessen",
+    "book_noun": "Lesen Sie dieses Buch sorgfältig"
+  },
+  "profile": {
+    "welcome_male": "Willkommen, Herr {{name}}",
+    "welcome_female": "Willkommen, Frau {{name}}",
+    "welcome_other": "Willkommen, {{name}}"
+  },
+  "formatting": {
+    "price": "Preis: {{amount, currency}}",
+    "date": "Datum: {{date, datetime}}",
+    "number": "Besucher: {{count, number}}"
+  },
+  "awsProblems": {
+    "title": "AWS Translate Probleme",
+    "plural_issue": "AWS übersetzte '{{count}} items' wörtlich ohne Pluralregeln",
+    "context_issue": "Button-Text 'Save' wurde zu 'Speichern' aber sollte 'Retten' im Notfall-Kontext sein",
+    "ordinal_issue": "1st place wurde zu '1. Platz' statt '1. Platz'"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "book": {
+    "reserve": "Book a Table",
+    "reservation": "Make reservation: Book a table for dinner"
+  },
+  "save": {
+    "file": "Save File",
+    "life": "Save Life",
+    "data": "Store data"
+  }
+}

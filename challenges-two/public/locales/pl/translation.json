@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "pluralization": "Liczba mnoga",
+    "ordinals": "Liczebniki porządkowe",
+    "formatting": "Formatowanie liczb i dat",
+    "lists": "Listy tekstowe",
+    "gender": "Rodzaj i gramatyka"
+  },
+  "pluralization": {
+    "title": "Przykłady liczby mnogiej",
+    "items_one": "{{count}} element",
+    "items_few": "{{count}} elementy",
+    "items_many": "{{count}} elementów",
+    "books_one": "{{count}} książka",
+    "books_few": "{{count}} książki",
+    "books_many": "{{count}} książek"
+  },
+  "ordinals": {
+    "title": "Liczebniki porządkowe",
+    "position": "Pozycja: {{ordinal}}"
+  },
+  "formatting": {
+    "title": "Formatowanie liczb i dat",
+    "number": "Liczba: {{number}}",
+    "currency": "Cena: {{price}}",
+    "date": "Data: {{date}}"
+  },
+  "lists": {
+    "title": "Listy tekstowe",
+    "fruits": "Owoce: {{list}}"
+  },
+  "gender": {
+    "title": "Rodzaj i zgodność gramatyczna",
+    "user_male": "On jest użytkownikiem",
+    "user_female": "Ona jest użytkowniczką",
+    "welcome_male": "Witaj, Panie {{name}}",
+    "welcome_female": "Witaj, Pani {{name}}"
+  }
+}

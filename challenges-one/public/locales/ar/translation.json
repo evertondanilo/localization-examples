@@ -1,0 +1,51 @@
+{
+  "title": "عرض تحديات الترجمة i18next",
+  "languageSelector": "اللغة:",
+  "challenges": {
+    "pluralization": "تحدي الجمع",
+    "ordinals": "تحدي الأرقام الترتيبية",
+    "context": "تحدي السياق",
+    "gender": "تحدي الجنس",
+    "formatting": "تحدي التنسيق",
+    "awsIssues": "مشاكل AWS Translate"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "item_zero": "لا توجد عناصر",
+    "item_one": "عنصر واحد",
+    "item_two": "عنصران",
+    "item_few": "{{count}} عناصر",
+    "item_many": "{{count}} عنصراً",
+    "item_other": "{{count}} عنصر",
+    "total": "المجموع: {{amount, currency}}"
+  },
+  "ranking": {
+    "title": "ترتيب البطولة",
+    "position_1": "{{name}} حصل على المركز الأول",
+    "position_2": "{{name}} حصل على المركز الثاني",
+    "position_3": "{{name}} حصل على المركز الثالث",
+    "position_other": "{{name}} حصل على المركز {{count}}"
+  },
+  "context": {
+    "bank_financial": "زر البنك لإيداع المال",
+    "bank_river": "جلسنا على ضفة النهر",
+    "book_verb": "احجز طاولة للعشاء",
+    "book_noun": "اقرأ هذا الكتاب بعناية"
+  },
+  "profile": {
+    "welcome_male": "مرحباً، السيد {{name}}",
+    "welcome_female": "مرحباً، السيدة {{name}}",
+    "welcome_other": "مرحباً، {{name}}"
+  },
+  "formatting": {
+    "price": "السعر: {{amount, currency}}",
+    "date": "التاريخ: {{date, datetime}}",
+    "number": "الزوار: {{count, number}}"
+  },
+  "awsProblems": {
+    "title": "مشاكل AWS Translate",
+    "plural_issue": "AWS ترجم '{{count}} items' حرفياً بدون قواعد الجمع",
+    "context_issue": "نص الزر 'Save' أصبح 'حفظ' لكن يجب أن يكون 'إنقاذ' في سياق الطوارئ",
+    "ordinal_issue": "1st place أصبح 'المكان الأول' بدلاً من 'المركز الأول'"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "bank": {
+    "river": "River Bank",
+    "location": "We sat by the river bank"
+  },
+  "book": {
+    "reading": "Book (Reading Material)",
+    "instruction": "Read this book carefully"
+  }
+}

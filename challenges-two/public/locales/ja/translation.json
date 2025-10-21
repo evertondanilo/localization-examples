@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "pluralization": "複数形",
+    "ordinals": "序数",
+    "formatting": "数値と日付の書式設定",
+    "lists": "テキストリスト",
+    "gender": "性別と文法"
+  },
+  "pluralization": {
+    "title": "複数形の例",
+    "items_other": "{{count}}個のアイテム",
+    "books_other": "{{count}}冊の本"
+  },
+  "ordinals": {
+    "title": "序数",
+    "position": "位置: {{ordinal}}"
+  },
+  "formatting": {
+    "title": "数値と日付の書式設定",
+    "number": "数値: {{number}}",
+    "currency": "価格: {{price}}",
+    "date": "日付: {{date}}"
+  },
+  "lists": {
+    "title": "テキストリスト",
+    "fruits": "果物: {{list}}"
+  },
+  "gender": {
+    "title": "性別と文法的一致",
+    "user_male": "彼はユーザーです",
+    "user_female": "彼女はユーザーです",
+    "welcome_male": "ようこそ、{{name}}さん",
+    "welcome_female": "ようこそ、{{name}}さん"
+  }
+}

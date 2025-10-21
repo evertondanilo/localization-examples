@@ -1,0 +1,48 @@
+{
+  "title": "i18next Translation Challenges Demo",
+  "languageSelector": "Language:",
+  "challenges": {
+    "pluralization": "Pluralization Challenge",
+    "ordinals": "Ordinals Challenge", 
+    "context": "Context Challenge",
+    "gender": "Gender Challenge",
+    "formatting": "Formatting Challenge",
+    "awsIssues": "AWS Translate Issues"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "item_zero": "No items",
+    "item_one": "{{count}} item",
+    "item_other": "{{count}} items",
+    "total": "Total: {{amount, currency}}"
+  },
+  "ranking": {
+    "title": "Tournament Rankings",
+    "position_1": "{{name}} finished 1st",
+    "position_2": "{{name}} finished 2nd", 
+    "position_3": "{{name}} finished 3rd",
+    "position_other": "{{name}} finished {{count}}th"
+  },
+  "context": {
+    "bank_financial": "Visit the bank to deposit money",
+    "bank_river": "We sat by the river bank",
+    "book_verb": "Book a table for dinner",
+    "book_noun": "Read this book carefully"
+  },
+  "profile": {
+    "welcome_male": "Welcome, Mr. {{name}}",
+    "welcome_female": "Welcome, Ms. {{name}}",
+    "welcome_other": "Welcome, {{name}}"
+  },
+  "formatting": {
+    "price": "Price",
+    "date": "Date",
+    "number": "Visitors"
+  },
+  "awsProblems": {
+    "title": "AWS Translate Problems",
+    "plural_issue": "AWS translated '{{count}} items' literally without plural rules",
+    "context_issue": "Button text 'Save' became 'Guardar' (Spanish) but should be 'Salvar' in emergency context",
+    "ordinal_issue": "1st place became '1 lugar' instead of '1er lugar'"
+  }
+}

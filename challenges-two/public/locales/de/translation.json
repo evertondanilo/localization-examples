@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "pluralization": "Pluralisierung",
+    "ordinals": "Ordinalzahlen",
+    "formatting": "Zahlen- und Datumsformatierung",
+    "lists": "Textlisten",
+    "gender": "Geschlecht und Grammatik"
+  },
+  "pluralization": {
+    "title": "Pluralisierungsbeispiele",
+    "items_one": "{{count}} Element",
+    "items_other": "{{count}} Elemente",
+    "books_one": "{{count}} Buch",
+    "books_other": "{{count}} Bücher"
+  },
+  "ordinals": {
+    "title": "Ordinalzahlen",
+    "position": "Position: {{ordinal}}"
+  },
+  "formatting": {
+    "title": "Zahlen- und Datumsformatierung",
+    "number": "Zahl: {{number}}",
+    "currency": "Preis: {{price}}",
+    "date": "Datum: {{date}}"
+  },
+  "lists": {
+    "title": "Textlisten",
+    "fruits": "Früchte: {{list}}"
+  },
+  "gender": {
+    "title": "Geschlecht und grammatische Übereinstimmung",
+    "user_male": "Er ist ein Benutzer",
+    "user_female": "Sie ist eine Benutzerin",
+    "welcome_male": "Willkommen, Herr {{name}}",
+    "welcome_female": "Willkommen, Frau {{name}}"
+  }
+}

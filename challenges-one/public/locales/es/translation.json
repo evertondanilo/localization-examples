@@ -1,0 +1,48 @@
+{
+  "title": "Demo de Desafíos de Traducción i18next",
+  "languageSelector": "Idioma:",
+  "challenges": {
+    "pluralization": "Desafío de Pluralización",
+    "ordinals": "Desafío de Ordinales",
+    "context": "Desafío de Contexto", 
+    "gender": "Desafío de Género",
+    "formatting": "Desafío de Formato",
+    "awsIssues": "Problemas de AWS Translate"
+  },
+  "cart": {
+    "title": "Carrito de Compras",
+    "item_zero": "Sin artículos",
+    "item_one": "{{count}} artículo",
+    "item_other": "{{count}} artículos",
+    "total": "Total: {{amount, currency}}"
+  },
+  "ranking": {
+    "title": "Rankings del Torneo",
+    "position_1": "{{name}} terminó 1º",
+    "position_2": "{{name}} terminó 2º",
+    "position_3": "{{name}} terminó 3º", 
+    "position_other": "{{name}} terminó {{count}}º"
+  },
+  "context": {
+    "bank_financial": "Visita el banco para depositar dinero",
+    "bank_river": "Nos sentamos junto a la orilla del río",
+    "book_verb": "Reserva una mesa para cenar",
+    "book_noun": "Lee este libro cuidadosamente"
+  },
+  "profile": {
+    "welcome_male": "Bienvenido, Sr. {{name}}",
+    "welcome_female": "Bienvenida, Sra. {{name}}",
+    "welcome_other": "Bienvenido/a, {{name}}"
+  },
+  "formatting": {
+    "price": "Precio: {{amount, currency}}",
+    "date": "Fecha: {{date, datetime}}",
+    "number": "Visitantes: {{count, number}}"
+  },
+  "awsProblems": {
+    "title": "Problemas de AWS Translate",
+    "plural_issue": "AWS tradujo '{{count}} items' literalmente sin reglas de plural",
+    "context_issue": "El texto del botón 'Save' se convirtió en 'Guardar' pero debería ser 'Salvar' en contexto de emergencia",
+    "ordinal_issue": "1st place se convirtió en '1 lugar' en lugar de '1er lugar'"
+  }
+}
