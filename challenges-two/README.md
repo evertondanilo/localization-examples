@@ -29,7 +29,8 @@ src/
 ## Pages & Features
 
 ### Page 1: Pluralization
-Demonstrate handling of singular/plural forms across different languages using i18next plural rules.
+Demonstrate handling of singular/plural forms across different languages using i18next plural rules.  
+https://jsfiddle.net/6bpxsgd4 site with examples
 
 ### Page 2: Ordinals  
 Show ordinal number formatting (1st, 2nd, 3rd, etc.) with proper localization.
